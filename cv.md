@@ -27,6 +27,7 @@ Level 6. Business Information Systems.
 * *System analysis and design*
 * *Project Management*
 * *Internet Marketing*
+* *Internet Law*
 
 *I have been learning English for a ling time attending English classes at college as well as taking adiitional extracurricular English classes. Also, have practiced the leanguage living in an English speaking country for more than 8 months in total.*
 
