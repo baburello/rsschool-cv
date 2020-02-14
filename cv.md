@@ -19,7 +19,7 @@ My goals are to obtain IT skills and to learn several languages to become a web 
 
 ### Education:
 **Westminster International University in Tashkent.**
-Business Information Systems. 
+Level 6. Business Information Systems. 
 
 **Studied courses**:
 * *Web application development*
